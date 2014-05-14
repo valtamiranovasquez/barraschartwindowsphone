@@ -1,0 +1,16 @@
+﻿<xapCache source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\BarrasChart_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="13/05/2014 09:42:15 p.m.">
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.dll" archivePath="BarrasChart.dll" lastWriteTime="13/05/2014 09:42:11 p.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="04/08/2013 01:54:09 p.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="04/08/2013 02:50:25 a.m." />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Windows Phone\v8.0\Libraries\Microsoft.Phone.Controls.dll" archivePath="Microsoft.Phone.Controls.dll" lastWriteTime="03/03/2013 07:40:38 p.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll" archivePath="System.Windows.Controls.DataVisualization.Toolkit.dll" lastWriteTime="04/05/2010 11:22:38 p.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="02/08/2010 03:12:34 a.m." />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v8.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="25/09/2012 01:41:02 a.m." />
+  <file source="C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="04/08/2013 01:54:09 p.m." />
+</xapCache>

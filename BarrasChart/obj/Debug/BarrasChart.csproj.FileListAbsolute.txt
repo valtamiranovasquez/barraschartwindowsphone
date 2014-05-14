@@ -1,0 +1,65 @@
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\System.Windows.Interactivity.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\ApplicationIcon.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\BarrasChart.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\BarrasChart.pdb
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\AppManifest.xaml
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Properties\WMAppManifest.xml
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\BarrasChart_Debug_AnyCPU.xap
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\System.Windows.Controls.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.csprojResolveAssemblyReference.cache
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\App.g.cs
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\MainPage.g.cs
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.g.resources
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.Resources.AppResources.resources
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.csproj.GenerateResource.Cache
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.dll
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\BarrasChart.pdb
+E:\Documents\Microsoft\Windows Phone\Aplicaciones\BarrasChart\BarrasChart\obj\Debug\XapCacheFile.xml
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\BarrasChart.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\BarrasChart.pdb
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\AppManifest.xaml
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\BarrasChart_Debug_AnyCPU.xap
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\App.g.cs
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\MainPage.g.cs
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.g.resources
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.Resources.AppResources.resources
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.csproj.GenerateResource.Cache
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.dll
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\BarrasChart.pdb
+C:\Users\Victor\Source\Repos\barraschartwindowsphone\BarrasChart\obj\Debug\XapCacheFile.xml
